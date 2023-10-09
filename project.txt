@@ -1,0 +1,4 @@
+My project is related to analyzing the multidecade drought in the Colorado River Basin.
+I am using remote sensing data aided by hydrological modelling to observe the changes in hydrological conditions across the basin.
+My work is also focused on finding the effect of soil moisture in mediating runoff response to snowpack.
+
